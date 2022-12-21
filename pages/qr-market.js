@@ -12,7 +12,7 @@ const QrMarket = () => {
   }, []);
 
   return (
-    <div>
+    <div className="p-2">
       <h1>Redirecting...</h1>
     </div>
   );
